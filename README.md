@@ -1,6 +1,6 @@
 Setup Instructions:
-cd <PROJECT_NAME>
-npm i
+cd <PROJECT_NAME>,
+npm i,
 npm run dev
 
 Technologies used for this project:
